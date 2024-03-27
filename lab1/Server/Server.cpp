@@ -50,6 +50,7 @@ int main()
 		send(newConnection, (char*)&count, sizeof(count), NULL); // адпраўляем атрыманую колькасць лікаў, кратных 3-ом, кліенту
 	}
 
+	closesocket(newConnection);
 	closesocket(s); 
 	WSACleanup();
 	return 0;

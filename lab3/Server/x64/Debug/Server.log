@@ -1,0 +1,6 @@
+﻿  Server.cpp
+D:\Works\КС\labs\lab3\Server\Server.cpp(174,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Server\Server.cpp(223,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Server\Server.cpp(155,6): warning C4101: choice_person: неиспользованная локальная переменная
+D:\Works\КС\labs\lab3\Server\Server.cpp(232,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Server.vcxproj -> D:\Works\КС\labs\lab3\Server\x64\Debug\Server.exe

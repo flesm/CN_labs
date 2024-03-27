@@ -1,0 +1,9 @@
+﻿  Client.cpp
+D:\Works\КС\labs\lab3\Client\Client.cpp(56,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Client\Client.cpp(64,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Client\Client.cpp(72,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Client\Client.cpp(80,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Client\Client.cpp(88,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Client\Client.cpp(139,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Works\КС\labs\lab3\Client\Client.cpp(180,56): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Client.vcxproj -> D:\Works\КС\labs\lab3\Client\x64\Debug\Client.exe
